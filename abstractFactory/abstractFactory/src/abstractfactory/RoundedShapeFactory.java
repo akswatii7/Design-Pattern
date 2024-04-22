@@ -7,8 +7,8 @@ package abstractfactory;
 
 /**
  *
- * @author SP21-BSE-017
- */
+ * @author SP21-BSE-002
+ *
 public class RoundedShapeFactory extends AbstractFactory {
    @Override
    public Shape getShape(String shapeType){    
